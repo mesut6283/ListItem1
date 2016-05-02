@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ListItem1</string>
+
+    <string-array name="header_title">
+        <item>Action Movies</item>
+        <item>Romantic Movies</item>
+        <item>Horror Movies</item>
+
+    </string-array>
+
+    <string-array name="h1_Items">
+        <item>The Dark Knight</item>
+        <item>Minority Report</item>
+        <item>The Bourne Ultimatum</item>
+    </string-array>
+    <string-array name="h2_Items">
+        <item>The Dark Knight</item>
+        <item>Minority Report</item>
+        <item>The Bourne Ultimatum</item>
+    </string-array>
+    <string-array name="h3_Items">
+        <item>The Dark Knight</item>
+        <item>Minority Report</item>
+        <item>The Bourne Ultimatum</item>
+    </string-array>
+</resources>
